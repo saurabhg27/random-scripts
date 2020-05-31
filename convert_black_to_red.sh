@@ -1,4 +1,4 @@
-# Convert a PDF with black text and images into red using ImageMagick
+# Convert an image/pdf with black text and images into red using ImageMagick
 # Helps if you want to save black printer ink
 # https://superuser.com/a/1548631/1130873
 
