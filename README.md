@@ -6,6 +6,8 @@
  - check for course availability
  - saves lot of clicks
 
+#### random-commands.txt
+ - some common CLI commands
 
 #### convert_black_to_red.sh
 - Convert an image/pdf with black text and images into red using ImageMagick
