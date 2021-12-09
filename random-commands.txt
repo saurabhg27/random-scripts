@@ -1,0 +1,8 @@
+This file has some CLI commands for some apps
+
+//download audio from youtube video
+youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=6RssL81oWOI
+
+//convert flac to mp3 using ffmpeg
+find * -name "*.flac" -exec ffmpeg -i {} -ab 160k -map_metadata 0 -id3v2_version 3 mp3\{}.mp3 \;
+ffmpeg -i "The Weeknd_The Highlights (2021)\11 - Call Out My Name.flac" -ab 160k -map_metadata 0 -id3v2_version 3 "mp3\11 - Call Out My Name.mp3"
