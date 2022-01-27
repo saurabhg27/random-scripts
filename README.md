@@ -6,6 +6,10 @@
  - check for course availability
  - saves lot of clicks
 
+#### youtube_view_count.py
+ - get video stats like view count, like count from youtube api
+ - i used it to sort by views,likes and watch the good stuff
+
 #### random-commands.txt
  - some common CLI commands
 
