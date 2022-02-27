@@ -2,6 +2,10 @@
 
 ### Some scripts to automate stuff
 
+#### pptToMergerPDF.py
+ - convert all pptx in curdir to pdf
+ - merge the pdf's to single pdf file
+
 #### course_check.py
  - check for course availability
  - saves lot of clicks
