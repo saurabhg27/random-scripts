@@ -1,6 +1,11 @@
 # random-scripts
 
-### Some scripts to automate stuff
+### Some scripts to do stuff
+
+
+#### yt-analytics
+ - visualize YouTube watch history, uses youtube rest api
+ - shows what categories of video one watched
 
 #### pptToMergerPDF.py
  - convert all pptx in curdir to pdf
