@@ -2,6 +2,9 @@
 
 ### Some scripts to do stuff
 
+#### ball-sort-puzzle-solver
+ - solver for ball sort or liquid sort puzzle
+ - can read an image and create the input flask array
 
 #### yt-analytics
  - visualize YouTube watch history, uses youtube rest api
